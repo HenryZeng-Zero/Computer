@@ -1,0 +1,5 @@
+# Editor
+.vscode/
+
+# NixOS direnv Cache
+.direnv/
